@@ -4,7 +4,7 @@ i have downloaded three apps the first one is virtualbox witch is a simulator, a
 and the last one is ROS 
 the main two problem that i have faced in installing is that the size is limeted to 10GB and when i start installing in the Terminal shows me the error of space not enough, the second one is that i have to install ROS acourding to the Ubuntu version 
 and the installing simpliy copy and paste the command that i have search for in the internet for the ROS
-and will add an image that show ROS OS that has been installed 
+and will add an image that show ROS OS that has been installed and the version
 
 that's it for the steps to install ROS on my PC knoow the steps for installing ROS to Jetson Nano 
 
